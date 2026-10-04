@@ -2,14 +2,16 @@
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.ainewgen.pnp.v2-blue)](https://doi.org/10.5281/zenodo.ainewgen.pnp.v2)
+[![Zenodo Version DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23130667-blue.svg)](https://doi.org/10.5281/zenodo.23130667)
+[![Zenodo Concept DOI](https://img.shields.io/badge/Concept%20DOI-10.5281%2Fzenodo.23130666-indigo.svg)](https://doi.org/10.5281/zenodo.23130666)
 [![DRC Compliance](https://img.shields.io/badge/DRC%20Compliance-100%25-brightgreen.svg)]()
 
 **Mathematical Formulation, Metric Contraction Proof, and Industrial Application to Ultra-Scale HDI PCB Routing**
 
 * **Authors:** AInewgen Core & Brey (Brandon Bujold Charlebois)
 * **Affiliation:** AInewgen Research Laboratories — 18115915 Canada Inc., Quebec, Canada
-* **Target:** Zenodo Open-Science Repository | **Identifier:** `10.5281/zenodo.ainewgen.pnp.v2`
+* **Zenodo Version DOI:** [10.5281/zenodo.23130667](https://doi.org/10.5281/zenodo.23130667)
+* **Zenodo Concept DOI (All Versions):** [10.5281/zenodo.23130666](https://doi.org/10.5281/zenodo.23130666)
 * **Date:** October 2026
 
 ---
@@ -128,7 +130,8 @@ Upon execution, the script generates `ainewgen_p_np_validation_report.json` cont
   title={Reduction of NP-Complete Complexity via 8D Hyperbolic Geometry and Stigmergic Collapse},
   author={AInewgen Core and Brey, Brandon Bujold Charlebois},
   journal={Zenodo Open-Science Repository},
-  volume={10.5281/zenodo.ainewgen.pnp.v2},
+  doi={10.5281/zenodo.23130667},
+  url={https://doi.org/10.5281/zenodo.23130667},
   year={2026},
   month={October}
 }

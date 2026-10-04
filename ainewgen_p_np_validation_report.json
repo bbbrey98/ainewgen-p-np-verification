@@ -1,8 +1,11 @@
 {
   "title": "Reduction of NP-Complete Complexity via 8D Hyperbolic Geometry and Stigmergic Collapse",
-  "authors": "AInewgen Core & Brey",
-  "date": "Octobre 2026",
-  "zenodo_target": "10.5281/zenodo.ainewgen.pnp",
+  "authors": "AInewgen Core & Brey (Brandon Bujold Charlebois)",
+  "affiliation": "AInewgen Research Laboratories — 18115915 Canada Inc., Quebec, Canada",
+  "date": "October 2026",
+  "zenodo_version_doi": "10.5281/zenodo.23130667",
+  "zenodo_concept_doi": "10.5281/zenodo.23130666",
+  "zenodo_url": "https://doi.org/10.5281/zenodo.23130667",
   "results": {
     "test_1_analytical": {
       "status": "PASS",
@@ -21,14 +24,14 @@
         400
       ],
       "measured_times": [
-        0.9458107948303223,
-        2.347576856613159,
-        5.818536281585693,
-        10.678161382675171,
-        21.916998386383057
+        1.4786694049835205,
+        2.5733273029327393,
+        4.798803806304932,
+        10.093459367752075,
+        14.849579811096191
       ],
-      "polynomial_exponent_k": 1.0574998798825292,
-      "r_squared": 0.9971538646023013
+      "polynomial_exponent_k": 0.8074602887911859,
+      "r_squared": 0.9888670296707901
     },
     "test_3_quality": {
       "status": "PASS",
@@ -39,10 +42,10 @@
     "test_4_industrial_pcb": {
       "status": "PASS",
       "component": "BGA 500-pin HDI",
-      "drill_time_seconds": 13.917323112487793,
+      "drill_time_seconds": 6.584376096725464,
       "total_distance_mm": 11340.619176260563,
       "drc_compliance": 100.0,
-      "throughput_vias_per_sec": 35.92644907060884
+      "throughput_vias_per_sec": 75.93733903636816
     }
   },
   "verdict": "CERTIFIED_POLYNOMIAL_RESOLUTION"

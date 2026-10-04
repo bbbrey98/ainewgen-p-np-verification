@@ -3,8 +3,9 @@
 ========================================================================================
 AInewgen Quantum & Mathematical Intelligence — Verification Suite
 REDUCTION OF NP-COMPLETE COMPLEXITY VIA 8D HYPERBOLIC GEOMETRY & STIGMERGIC COLLAPSE
-Target: Zenodo Peer-Reviewed DOI Validation
-Authors: AInewgen Core & Brey
+Zenodo DOI (Version): 10.5281/zenodo.23130667 | URL: https://doi.org/10.5281/zenodo.23130667
+Zenodo DOI (Concept): 10.5281/zenodo.23130666 | URL: https://doi.org/10.5281/zenodo.23130666
+Authors: AInewgen Core & Brey (Brandon Bujold Charlebois)
 ========================================================================================
 This validation suite executes 4 formal validation tests:
   1. ANALYTICAL CONVERGENCE: Verification of critical curvature constant N_0 = Phi / ln(2).
@@ -354,9 +355,12 @@ def main():
     
     report = {
         "title": "Reduction of NP-Complete Complexity via 8D Hyperbolic Geometry and Stigmergic Collapse",
-        "authors": "AInewgen Core & Brey",
-        "date": "Octobre 2026",
-        "zenodo_target": "10.5281/zenodo.ainewgen.pnp",
+        "authors": "AInewgen Core & Brey (Brandon Bujold Charlebois)",
+        "affiliation": "AInewgen Research Laboratories — 18115915 Canada Inc., Quebec, Canada",
+        "date": "October 2026",
+        "zenodo_version_doi": "10.5281/zenodo.23130667",
+        "zenodo_concept_doi": "10.5281/zenodo.23130666",
+        "zenodo_url": "https://doi.org/10.5281/zenodo.23130667",
         "results": {
             "test_1_analytical": r1,
             "test_2_empirical_scaling": r2,
